@@ -1,0 +1,3 @@
+C:/faculta/TP/exercitii/cmake-build-debug/CMakeFiles/exercitii.dir
+C:/faculta/TP/exercitii/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/faculta/TP/exercitii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
